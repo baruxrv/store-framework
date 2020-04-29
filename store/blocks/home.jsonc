@@ -1,7 +1,9 @@
 {
   "store.home": { 
     "blocks": [
-      "rich-text"
+      "rich-text",
+      "info-card#button-right",
+      "info-card#button-left"
     ]
   },
   "rich-text": {
@@ -24,6 +26,7 @@
       "textAlignment": "center"
     }
   },
+
   "info-card#button-left": {
     "props": {
       "isFullModeStyle": false,
