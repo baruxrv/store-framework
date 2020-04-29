@@ -20,11 +20,12 @@
     "product-name",
     "product-identifier.product",
     "product-price",
-    "flex-layout.row#qty-sku",
+    "sku-selector",
+    "product-quantity",
+    "shipping-simulator",
     "buy-button"
   ]
 },
-
 
 "product-price": {
   "props": {
