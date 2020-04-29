@@ -1,6 +1,6 @@
 {
   "store.product": {
-    "children": ["breadcrumb","flex-layout.row#main","flex-layout.row#qty-sku"]
+    "children": ["breadcrumb","flex-layout.row#main"]
   },
   "flex-layout.row#main": { 
     "props": { 
@@ -20,6 +20,7 @@
     "product-name",
     "product-identifier.product",
     "product-price",
+    "flex-layout.row#qty-sku",
     "buy-button"
   ]
 },
