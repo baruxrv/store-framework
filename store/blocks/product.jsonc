@@ -19,7 +19,8 @@
     "verticalAlign":"center",
     "preventVerticalStretch":false
   },
-  "children": ["product-name","product-price","buy-button"],
+  "children": ["product-name","product-price","buy-button"]
+  
 },
 
 "product-price": {
